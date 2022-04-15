@@ -1,0 +1,31 @@
+Dashboard Monitoring Requirement
+
+1. Transaction_id wise tracking with Time stamp
+
+Search buyer to Gateway
+Search Ack Gateway to Buyer
+Search Gateway to Sellers
+Search Ack Sellers to Gateway
+On_search Seller to Gateway
+On_search Ack Gateway to Sellers
+On_Search Gateway to Buyer
+On_Search Ack Buyer to Gateway
+
+2. Day wise transaction count
+
+3. Weekly Transaction count
+
+4. Monthly Transaction count
+
+5. Buyer wise count
+
+6. Sellers wise count
+How many search accepted?
+How many on_search triggered?
+
+7. Lookup API count by NPs wise
+
+8. How many sellers and buyers are hourly active.
+
+9. Connectivity to Buyers and sellers from Gateway.
+
